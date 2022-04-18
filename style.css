@@ -1,0 +1,66 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500&display=swap"); */
+
+html {
+  /* font-family: "Quicksand", sans-serif; */
+  font-family:'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+.body {
+  border: 1px solid rgb(241, 161, 11);
+  background-color: rgb(250, 223, 189);
+  width: 320px;
+  padding: 30px 50px 0px 50px;
+  border-radius: 7px;
+}
+
+h2 {
+  margin: -10px 0 0 0;
+  color: rgb(119, 156, 43);
+  font-weight: 700;
+}
+
+p {
+  text-align: justify;
+  margin-bottom: 40px;
+  font-size: 14px;
+}
+
+.linkBody {
+  display: flex;
+  justify-content: space-between;
+}
+
+.icon img {
+  width: 30px;
+}
+
+.inputValue {
+  margin-bottom: 10px;
+}
+
+.inputValue input {
+  border: 1px solid rgb(250, 160, 26);
+  border-radius: 20px;
+  height: 20px;
+  padding: 0 5px;
+}
+
+.inputValue button {
+  border: 1px solid blueviolet;
+  width: 70px;
+  border-radius: 20px;
+  color: blueviolet;
+  cursor: pointer;
+  height: 30px;
+  /* font-family: "Quicksand", sans-serif; */
+  font-family:'Courier New', Courier, monospace;
+}
+
+h5 {
+  margin-top: 30px;
+}
